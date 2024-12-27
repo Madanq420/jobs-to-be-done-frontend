@@ -1,4 +1,4 @@
-# PlanToIt Front-End Project
+# Jobs To Be Done Front-End Project
 
 This project is for the jobs to be done frontend
 

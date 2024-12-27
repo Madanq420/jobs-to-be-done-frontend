@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import { logo } from '../images'
+import { logo, logoWhite } from '../images'
 
 function Footer() {
   return (
@@ -10,6 +10,7 @@ function Footer() {
           <div className="grid grid-cols-1 md:grid-cols-[50%_25%_25%] gap-6">
             <div className=" bg">
               <h6>About</h6>
+              <p><Image src={logoWhite} alt='Logo' /></p>
               <p className="text-[#d8c8c8]">
                 The Jobs To Be Done (JTBD) framework helps businesses understand customers' needs by
                 identifying the "jobs" they want to accomplish, viewing products as tools they
