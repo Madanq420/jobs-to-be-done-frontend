@@ -1,0 +1,172 @@
+[
+    {
+        "name": "Functional Priorities",
+        "description": "This theme captures the fundamental need for comfort, support, and durability in nursing footwear. Female nurses prioritize footwear that can withstand long hours and heavy use, emphasizing the necessity of ergonomic design to minimize foot pain, fatigue, and wear-and-tear damage.",
+        "categories": [
+            {
+                "name": "Comfort and Support Needs",
+                "description": "This category includes codes related to the necessity for comfort and support in nursing footwear.",
+                "codes": [
+                    "need for comfort",
+                    "supportive shoes",
+                    "comfort importance",
+                    "importance of support",
+                    "comfort concerns",
+                    "shoe support",
+                    "comfort realization",
+                    "support importance",
+                    "importance of foot support",
+                    "support and cushioning",
+                    "foot pain experience",
+                    "importance of cushioning",
+                    "comfort support priority",
+                    "focus on comfort",
+                    "comfort needs",
+                    "comfort features"
+                ]
+            },
+            {
+                "name": "Durability and Maintenance",
+                "description": "This category relates to the need for durable footwear and the factors affecting their longevity and upkeep.",
+                "codes": [
+                    "importance of durability",
+                    "reliability in footwear",
+                    "durability influence",
+                    "durability consideration",
+                    "durability focus",
+                    "wear and tear",
+                    "importance of durability",
+                    "durability concerns"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Professional Context",
+        "description": "Nurses operate in demanding professional environments that shape their footwear preferences. The diverse roles and responsibilities of nurses necessitate footwear that supports their various tasks, all while maintaining a level of professionalism in appearance.",
+        "categories": [
+            {
+                "name": "Professional Roles and Responsibilities",
+                "description": "This category encompasses the codes related to the roles, responsibilities, and work environments of female nurses.",
+                "codes": [
+                    "current role",
+                    "nursing responsibilities",
+                    "patient care",
+                    "team collaboration",
+                    "workday overview",
+                    "typical day description",
+                    "day-to-day activities",
+                    "work environment",
+                    "administrative work",
+                    "workplace environment",
+                    "work environment influence",
+                    "hospital environment",
+                    "professional setting inquiry"
+                ]
+            },
+            {
+                "name": "Footwear Importance and Influences",
+                "description": "This category captures the significance and various influencing factors on the footwear choices of female nurses.",
+                "codes": [
+                    "footwear influence",
+                    "footwear needs",
+                    "importance of footwear",
+                    "footwear choice influence",
+                    "importance of slip-resistance",
+                    "importance of arch support",
+                    "importance of cushioning",
+                    "importance of dry shoes",
+                    "importance of maintenance",
+                    "importance of professionalism",
+                    "importance of sustainability",
+                    "importance of cleanliness",
+                    "importance of reviews",
+                    "importance of style",
+                    "importance of comments"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Aesthetic Considerations",
+        "description": "Despite functionality being paramount, the style and visual appeal of footwear play a significant role in purchasing decisions. Female nurses seek a balance between aesthetics and practicality, aiming for shoes that contribute to their professional image and personal style.",
+        "categories": [
+            {
+                "name": "Style and Aesthetics Considerations",
+                "description": "This category encapsulates codes regarding the balance and importance of style and aesthetics in footwear decisions.",
+                "codes": [
+                    "balancing style and function",
+                    "style considerations",
+                    "balancing cost and quality",
+                    "importance of aesthetics",
+                    "style variety",
+                    "personal style",
+                    "personal style importance",
+                    "style preferences",
+                    "aesthetics vs functionality"
+                ]
+            },
+            {
+                "name": "Footwear Importance and Influences",
+                "description": "This category captures the significance and various influencing factors on the footwear choices of female nurses.",
+                "codes": [
+                    "footwear influence",
+                    "footwear needs",
+                    "importance of footwear",
+                    "footwear choice influence",
+                    "importance of slip-resistance",
+                    "importance of arch support",
+                    "importance of cushioning",
+                    "importance of dry shoes",
+                    "importance of maintenance",
+                    "importance of professionalism",
+                    "importance of sustainability",
+                    "importance of cleanliness",
+                    "importance of reviews",
+                    "importance of style",
+                    "importance of comments"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Brand and Trust",
+        "description": "Brand perception heavily influences footwear choices among nurses. Trust in reliable brands that align with their specific needs for comfort and durability figures prominently in decision-making processes.",
+        "categories": [
+            {
+                "name": "Brand Influence and Perception",
+                "description": "This category covers the impact of brand perception and loyalty on purchasing decisions.",
+                "codes": [
+                    "brand loyalty",
+                    "brand perception",
+                    "trust in brands",
+                    "brand association",
+                    "brand reputation",
+                    "importance of brand perception",
+                    "importance of brand reputation",
+                    "brand loyalty influence",
+                    "brand switch"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Footwear Challenges",
+        "description": "Various challenges such as inadequate cushioning, sizing issues, and maintenance difficulties highlight existing gaps in current shoe models. Addressing these problems is crucial for designing shoes that adequately meet nurses' functional and aesthetic needs.",
+        "categories": [
+            {
+                "name": "Footwear Challenges and Solutions",
+                "description": "This category includes challenges faced with current footwear and potential solutions or areas for improvement.",
+                "codes": [
+                    "frustrations with shoes",
+                    "challenges with footwear",
+                    "footwear limitations",
+                    "lack of cushioning",
+                    "discomfort from footwear",
+                    "sizing inconsistencies",
+                    "ignored problems"
+                ]
+            }
+        ]
+    }
+]
