@@ -259,8 +259,7 @@ function Homepage() {
                   How it <span className="text-jtbd">works ?</span>
                 </h1>
                 <p data-aos="fade-up" className="text-center my-4">
-                  Develop products, services, and marketing strategies that directly address
-                  real-world customer pain points with innovative solutions.
+                JTBD helps businesses create customer-centric products, improve satisfaction, differentiate in the market, and allocate resources effectively, leading to better growth, loyalty, and profitability.
                 </p>
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 mt-16 gap-4 pb-6">
                   <div
