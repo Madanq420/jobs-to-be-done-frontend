@@ -16,6 +16,12 @@ pnpm dev
 bun dev
 ```
 
+<!-- For Deploy, These are the invironment variables -->
+
+    NEXT_PUBLIC_EMAILJS_SERVICE_ID 
+    NEXT_PUBLIC_EMAILJS_TEMPLATE_ID 
+    env.NEXT_PUBLIC_EMAILJS_PUBLIC_KEY 
+
 ## Guidlines:
 
 - [ ] Create side brunch from master
