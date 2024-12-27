@@ -8,8 +8,11 @@ import 'aos/dist/aos.css'
 import Heading from '../_components/Header/Heading'
 
 export const metadata: Metadata = {
-  title: 'Jobs To Be Done (JTBD) Framework - Understand Customer Needs',
+  title: 'Jobs To Be Ok (JTBD) Framework - Understand Customer Needs',
   description: 'Discover how the Jobs To Be Done (JTBD) framework helps businesses understand customer needs, create better products, and drive innovation. Learn its principles, applications, and examples.',
+  icons: {
+    icon: '/favicon.ico',
+  },
   keywords: [
     'Jobs To Be Done',
     'JTBD Framework',
